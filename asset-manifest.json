@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dentist/static/css/main.0cd2769a.css",
-    "main.js": "/dentist/static/js/main.bb5731e0.js",
+    "main.js": "/dentist/static/js/main.db708ee2.js",
     "static/media/carousel-1.jpg": "/dentist/static/media/carousel-1.ac2273d9562aac4d928a.jpg",
     "static/media/carousel-2.jpg": "/dentist/static/media/carousel-2.9c6d23063049e264e4f1.jpg",
     "static/media/carousel-3.jpg": "/dentist/static/media/carousel-3.718e93451da76036cde3.jpg",
@@ -10,10 +10,10 @@
     "static/media/about-2.jpg": "/dentist/static/media/about-2.7f5140ef7fc908753414.jpg",
     "index.html": "/dentist/index.html",
     "main.0cd2769a.css.map": "/dentist/static/css/main.0cd2769a.css.map",
-    "main.bb5731e0.js.map": "/dentist/static/js/main.bb5731e0.js.map"
+    "main.db708ee2.js.map": "/dentist/static/js/main.db708ee2.js.map"
   },
   "entrypoints": [
     "static/css/main.0cd2769a.css",
-    "static/js/main.bb5731e0.js"
+    "static/js/main.db708ee2.js"
   ]
 }
